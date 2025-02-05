@@ -2,6 +2,8 @@
 
 Personal Finance Tracker is a web application that helps you manage your finances effectively. With this application, you can track your income and expenses, set budgets, and gain better control over your financial health. 
 
+<a href="https://kaushi-vashisth.github.io/Expense-Tracker/"> Click here to preview </a>
+
 <img width="960" alt="image" src="https://github.com/neeraj542/Personal-Finance-Tracker/assets/114648043/83946993-1e1b-41a8-ad3e-d0598bb9deb7">
 
 
